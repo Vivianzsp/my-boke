@@ -1,3 +1,4 @@
-# First Chapter
+# 序
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+很多年后，我曾问过很多人，相信年少的爱情吗？ 他们都冲我轻笑说，年少时的感情固然纯真如琥珀，却也冷却得快，那不过是过家家的游戏。 唯独我固执地坚持，年少的爱情最伟大，如果不是，怎么会有人愿意为对方不顾一切，甚至双手将生命奉上。 ——《我在灰烬里等你》
+
